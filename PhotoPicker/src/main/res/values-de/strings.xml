@@ -6,7 +6,7 @@
     <string name="__picker_confirm_to_delete">Möchtest Du wirklich löschen?</string>
     <string name="__picker_delete">Löschen</string>
     <string name="__picker_deleted_a_photo">Bild gelöscht.</string>
-    <string name="__picker_done">Auswählen</string>
+    <string name="__picker_done">Fertig</string>
     <string name="__picker_done_with_count">Auswählen (%1$d/%2$d)</string>
     <string name="__picker_image_index">%1$d/%2$d</string>
     <string name="__picker_over_max_count_tips">Es können bis zu %1$d Bilder ausgewählt werden.</string>
